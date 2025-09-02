@@ -17,7 +17,7 @@
   * [Kustomize](https://kustomize.io/) 
     * https://trstringer.com/helm-kustomize/ 
 * __More complex ones__
- * cdk8s
+ * [cdk8s](https://cdk8s.io/)
  * [Jsonnet](https://jsonnet.org/)
   * [Grafana Tanka](https://tanka.dev/)
 
@@ -36,3 +36,19 @@
 * GCP
 * Linode
 * Digital Ocean
+
+## Artifact Repository
+* [Sonatype Nexus](https://github.com/sonatype/nexus-public)
+* [JFrog Artifactory](https://pulpproject.org/)
+* Docker Hub
+* npm
+
+## User/Access Management
+* OpenLDAP
+* LLDAP
+* Keycloak
+* Okta
+* Azure AD B2C
+* Microsoft Identity Platform
+* Duende
+* Auth0
