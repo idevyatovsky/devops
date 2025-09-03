@@ -21,6 +21,9 @@
  * [Jsonnet](https://jsonnet.org/)
   * [Grafana Tanka](https://tanka.dev/)
 
+## kubectl
+* [Krew](https://krew.sigs.k8s.io/) - kubectl plugin manager
+
 ## CD
 * [Jenkins](https://www.jenkins.io/)
 * [Argo CD](https://argoproj.github.io/cd/)
