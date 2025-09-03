@@ -1,4 +1,4 @@
-# A collection of DevOps related resources =
+# A collection of DevOps related resources
 
 ## Containers
 * Docker (Client, Daemon, containerd, runc)
