@@ -9,10 +9,12 @@
 
 ## Container Orchestration / Control Plane
 * Kubernetes
-* [Kubernetes Alternatives](https://spacelift.io/blog/kubernetes-alternatives)
+ * [Kubernetes Alternatives](https://spacelift.io/blog/kubernetes-alternatives)
+* OpenShift
 * Docker Swarm
-* ECS
 * Mesos
+* Rancher
+* ECS
 * Nomad
 
 ## k8s Configuration and Management
