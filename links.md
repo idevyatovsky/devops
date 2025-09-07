@@ -10,6 +10,10 @@
 ## Container Orchestration
 * Kubernetes
 * [Kubernetes Alternatives](https://spacelift.io/blog/kubernetes-alternatives)
+* Docker Swarm
+* ECS
+* Mesos
+* Nomad
 
 ## k8s Configuration and Management
 * __Simple configs__
