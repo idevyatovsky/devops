@@ -7,7 +7,7 @@
   * [containerd Internals](https://samuel.karp.dev/blog/2024/12/containerd-internals-images/)
 * cri-O
 
-## Container Orchestration
+## Container Orchestration / Control Plane
 * Kubernetes
 * [Kubernetes Alternatives](https://spacelift.io/blog/kubernetes-alternatives)
 * Docker Swarm
